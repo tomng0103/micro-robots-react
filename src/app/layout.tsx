@@ -3,8 +3,7 @@ import './globals.css';
 import Link from 'next/link';
 import ControllerProvider from '@/components/controllerComponent';
 export const metadata: Metadata = {
-  title: 'My Next.js Blog',
-  description: 'A blog built with Next.js 14',
+  title: 'Micro Robots Simulator',
 };
 
 export default function RootLayout({
