@@ -1,6 +1,8 @@
 # 🤖 Micro Robots React
+<img width="601" height="600" alt="image" src="https://github.com/user-attachments/assets/33ace956-d255-4e79-bd9b-8b6be7c30b14" />
 
 A digital adaptation of the puzzle board game **Micro Robots** built with Next.js, React, and TypeScript. Navigate your robot across a colorful grid to reach the target flag while following the movement rules!
+![]
 
 ![Game Status](https://img.shields.io/badge/status-active-success.svg)
 ![Next.js](https://img.shields.io/badge/Next.js-15.5.5-black)
