@@ -9,6 +9,8 @@ A digital adaptation of the puzzle board game **Micro Robots** built with Next.j
 
 ## 🎮 How to Play
 
+<img width="906" height="919" alt="image" src="https://github.com/user-attachments/assets/22c272eb-af98-47a4-b16a-9ac2868a0b38" />
+
 ### Game Objective
 Move your robot (🤖) from its starting position to the target flag (🏁) using the fewest moves possible!
 
